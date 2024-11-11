@@ -1,0 +1,37 @@
+{"flag":"GEN","content":"Ready to transcribe"}
+{"flag":"GEN","content":"Did."}
+{"flag":"GEN","content":"Did you?"}
+{"flag":"GEN","content":"Did you finish?"}
+{"flag":"GEN","content":"Did you finish having?"}
+{"flag":"GEN","content":"Did you finish having lunch?"}
+{"flag":"GEN","content":"Did you finish having lunch, by"}
+{"flag":"GEN","content":"Did you finish having lunch by the way?"}
+{"flag":"GEN","content":"I've been."}
+{"flag":"GEN","content":"I've been eating."}
+{"flag":"GEN","content":"I've been eating this."}
+{"flag":"GEN","content":"I've been eating this stuff."}
+{"flag":"GEN","content":"I've been eating this stuff. I"}
+{"flag":"GEN","content":"I've been eating this stuff. I had."}
+{"flag":"GEN","content":"I've been eating this stuff I had from."}
+{"flag":"GEN","content":"I've been eating this stuff I had from yesterday."}
+{"flag":"GEN","content":"I've been eating this stuff. I had from yesterday from"}
+{"flag":"GEN","content":"I've been eating this stuff I had from yesterday, from, uh,"}
+{"flag":"GEN","content":"I've been eating the stuff I had from yesterday from"}
+{"flag":"GEN","content":"I've been eating the stuff I had from yesterday from Last."}
+{"flag":"GEN","content":"I've been eating the stuff I had from yesterday from Last Primal."}
+{"flag":"GEN","content":"I've been eating the stuff I had from yesterday from Last Primo's."}
+{"flag":"GEN","content":"I've been eating the stuff I had from yesterday from Last Primo's Din."}
+{"flag":"GEN","content":"I've been eating the stuff I had from yesterday from Last Primo's, Dinos."}
+{"flag":"GEN","content":"I've been eating the stuff I had from yesterday from Last Primos dinos."}
+{"flag":"FIN","content":"That's Prim."}
+{"flag":"GEN","content":"That's Primos."}
+{"flag":"GEN","content":"That's pretty much."}
+{"flag":"GEN","content":"That's pretty much does."}
+{"flag":"GEN","content":"Las primos dos."}
+{"flag":"FIN","content":"Mexican."}
+{"flag":"GEN","content":"Mexican restaurant."}
+{"flag":"GEN","content":"Mexican restaurant here."}
+{"flag":"GEN","content":"Mexican restaurant here in."}
+{"flag":"GEN","content":"Mexican restaurant here in Mank."}
+{"flag":"GEN","content":"Mexican restaurant here in Mankato."}
+{"flag":"FIN","content":"That's cool."}
